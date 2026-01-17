@@ -3,6 +3,8 @@
 Este é um template de alta performance para o **Google Project IDX - Firebase Studio**, configurado para ser a base de qualquer projeto web, desde sites estáticos simples até sistemas robustos com APIs e banco de dados.  
 Use e adapte para você.
 
+Obs.: Coloque no seu github se quiser e use como template e configurações do seu repositório.
+
 ## 🛠️ O que já vem pronto?
 * **Ambiente:** Node.js 22 + Nodemon (Auto-restart).
 * **Servidor:** Express.js pré-configurado para arquivos estáticos e APIs.
