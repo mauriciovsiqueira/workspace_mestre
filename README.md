@@ -37,7 +37,7 @@ Use o `index.js` para criar suas rotas.
 | `npm install` | Instala manualmente novas bibliotecas. |
 | `git add .` | Prepara as alterações para o GitHub. |  
 
-Para os comandos do Github, tenho em outro repositório com o "manual de sobrevivência do github".
+Para os comandos do Github, tenho em outro repositório: https://github.com/mauriciovsiqueira/vscode-e-manual-git-github.git.
 
 ---
 
