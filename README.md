@@ -1,6 +1,7 @@
 # 🚀 Workspace Mestre Universal (Firebase Studio)
 
-Este é um template de alta performance para o **Google Project IDX - Firebase Studio**, configurado para ser a base de qualquer projeto web, desde sites estáticos simples até sistemas robustos com APIs e banco de dados.
+Este é um template de alta performance para o **Google Project IDX - Firebase Studio**, configurado para ser a base de qualquer projeto web, desde sites estáticos simples até sistemas robustos com APIs e banco de dados.  
+Use e adapte para você.
 
 ## 🛠️ O que já vem pronto?
 * **Ambiente:** Node.js 22 + Nodemon (Auto-restart).
@@ -34,7 +35,9 @@ Use o `index.js` para criar suas rotas.
 | :--- | :--- |
 | `npm run dev` | Inicia o servidor com monitoramento de alterações. |
 | `npm install` | Instala manualmente novas bibliotecas. |
-| `git add .` | Prepara as alterações para o GitHub. |
+| `git add .` | Prepara as alterações para o GitHub. |  
+
+Para os comandos do Github, tenho em outro repositório com o "manual de sobrevivência do github".
 
 ---
 
